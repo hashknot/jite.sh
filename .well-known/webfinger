@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: /.well-known/webfinger
+---
+{
+  "subject": "acct:codeberg@jite.sh",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://codeberg.org"
+    }
+  ]
+}
